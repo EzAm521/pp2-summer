@@ -1,0 +1,1 @@
+print("Hello, my PP2 summer journey !")
